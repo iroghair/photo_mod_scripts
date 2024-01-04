@@ -6,7 +6,9 @@ It also maps the pictures and the route taken.
 Should be cleaned up thoroughly...
 
 ## To do
+
 Add scripts for the following steps:
+
 [ ] Rename pictures based on datetime_original
 [ ] Shift time by a number of seconds / provide 2 pictures that are taken at the same time
 [ ] Map pictures onto a map
